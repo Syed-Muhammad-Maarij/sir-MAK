@@ -1,0 +1,92 @@
+[
+  {
+    "id": "which-levels-does-sir-mak-teach",
+    "question": "Which levels does Sir MAK teach?",
+    "answer": "Computer Science at O Level, IGCSE, AS Level and A2 Level, including students taking the full A Level in one series. Each level has its own page under Learn.",
+    "group": "general",
+    "order": 1,
+    "status": "published",
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "updatedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+    "id": "which-syllabus-am-i-on-o-level-2210-or-igcse-0478",
+    "question": "Which syllabus am I on: O Level 2210 or IGCSE 0478?",
+    "answer": "Check your school's exam entry or your statement of entry. The two syllabuses cover the same topics and papers, so the O Level / IGCSE pages apply to both. Private candidates should check with the centre where they register.",
+    "group": "general",
+    "order": 2,
+    "status": "published",
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "updatedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+    "id": "do-i-need-to-finish-as-before-starting-a2",
+    "question": "Do I need to finish AS before starting A2?",
+    "answer": "The A2 papers build directly on AS topics, especially Paper 4, which assumes the programming skills from Paper 2. Most students take AS first. If you are taking all four papers together, see the Full A Level page for how to plan them.",
+    "group": "learning",
+    "order": 3,
+    "status": "published",
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "updatedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+    "id": "what-is-the-current-class-schedule",
+    "question": "What is the current class schedule?",
+    "answer": "Confirmed classes and workshops are listed on the Classes & Workshops page, each with the date its details were last checked. If nothing is listed for your level, send an enquiry.",
+    "group": "classes",
+    "order": 4,
+    "status": "published",
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "updatedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+    "id": "how-do-i-enquire-about-a-class-or-workshop",
+    "question": "How do I enquire about a class or workshop?",
+    "answer": "Use the enquiry form on the Contact page. Choose the level and what you are interested in, and you will get a reply with the current times, fees and availability.",
+    "group": "classes",
+    "order": 5,
+    "status": "published",
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "updatedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+    "id": "is-this-official-cambridge-material",
+    "question": "Is this official Cambridge material?",
+    "answer": "No. Sir MAK is an independent teacher. Lessons follow the published Cambridge syllabuses, but this site is not affiliated with or endorsed by Cambridge International.",
+    "group": "general",
+    "order": 6,
+    "status": "published",
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "updatedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+    "id": "are-online-and-in-person-classes-available",
+    "question": "Are online and in-person classes available?",
+    "answer": "To be confirmed by Sir MAK before publishing.",
+    "group": "classes",
+    "order": 7,
+    "status": "draft",
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "updatedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+    "id": "are-notes-and-recordings-available",
+    "question": "Are notes and recordings available?",
+    "answer": "To be confirmed by Sir MAK before publishing: which notes and recordings are offered, and to whom.",
+    "group": "general",
+    "order": 8,
+    "status": "draft",
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "updatedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+    "id": "what-happens-if-i-miss-a-class",
+    "question": "What happens if I miss a class?",
+    "answer": "To be confirmed by Sir MAK before publishing (missed classes, cancellations and refunds).",
+    "group": "classes",
+    "order": 9,
+    "status": "draft",
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "updatedAt": "2026-10-30T00:00:00.000Z"
+  }
+]
